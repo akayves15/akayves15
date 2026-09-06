@@ -11,7 +11,7 @@ Ingénieur en sciences informatiques, curieux des technologies et engagé dans u
 
 | Compétences                                         | Projet associé(s)        |
 |-----------------------------------------------|----------------------------|
-| Sécuriser les accès console et Telnet          | <a href="https://github.com/akayves15/securiser-acces-console-et-telnet/tree/main">Sécuriser accès console et Telnet</a>|
+| Sécuriser les accès console et Telnet          | <a href="https://github.com/akayves15/securiser-acces-console-et-telnet/tree/main">Lab sécuriser accès console et Telnet</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 
@@ -40,4 +40,4 @@ Ingénieur en sciences informatiques, curieux des technologies et engagé dans u
 </div>
 
 ## Projets
-- <a href="https://github.com/akayves15/securiser-acces-console-et-telnet/tree/main">Sécuriser accès console et Telnet</a>
+- <a href="https://github.com/akayves15/securiser-acces-console-et-telnet/tree/main">Lab sécuriser accès console et Telnet</a>
