@@ -14,7 +14,6 @@ Ingénieur en sciences informatiques, curieux des technologies et engagé dans u
 | Sécuriser les accès console et Telnet          | <a href="https://github.com/akayves15/securiser-acces-console-et-telnet/tree/main">Lab sécuriser accès console et Telnet</a>|
 
 
-
 ## outils
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
