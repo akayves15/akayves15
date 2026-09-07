@@ -15,7 +15,6 @@ Ingénieur en sciences informatiques, curieux des technologies et engagé dans u
 
 
 ## outils
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Reseau
 <div>
@@ -29,7 +28,6 @@ Ingénieur en sciences informatiques, curieux des technologies et engagé dans u
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
